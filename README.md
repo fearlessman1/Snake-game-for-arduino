@@ -42,22 +42,27 @@ If the player loses or presses **R**, the game gracefully returns to the demo mo
 * **Baud rate:** 9600
 * **Language:** C++ (Arduino)
 
-## License
+MIT License
 
-This project is distributed under a **Custom Personal Use License**.
+Copyright (c) 2025 fearlessman1
 
-### You are allowed to:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is furnished 
+to do so, subject to the following conditions:
 
-* Use the code for **personal and educational purposes**.
-* Modify it privately for your own use.
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Software.
 
-### You are **not allowed to**:
-
-* Redistribute, re-upload, or publish this project or its modified versions.
-* Use it for **commercial**, **promotional**, or **monetized** purposes.
-* Include it, in part or in whole, in other distributed works.
-
-If you wish to reference or feature this project publicly, you must obtain explicit permission from the author.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
 
 ---
 
