@@ -1,7 +1,7 @@
 #include "arduino_secrets.h"
 
-//Made by fearlessman with help of GPT-5
-//Snake game with IA demo
+//Made by fearlessman
+//Snake game with AI demo
 //When AI reaches 20 score, The snake commits suicide and the demo restarts.
 //If Q is pressed, the game enterrs in normal-playable mode
 //If player die, or press R, the script returns to AI demo
